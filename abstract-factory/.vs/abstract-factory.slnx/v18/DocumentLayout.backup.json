@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|c:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\logic\\stripe\\stripefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|solutionrelative:abstract-factory\\logic\\stripe\\stripefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|c:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\logic\\stripe\\stripevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|solutionrelative:abstract-factory\\logic\\stripe\\stripevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|c:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\logic\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|solutionrelative:abstract-factory\\logic\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|c:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B2FE31-D7F1-409A-8BAD-E4106C62B123}|abstract-factory\\abstract-factory.csproj|solutionrelative:abstract-factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StripeFactory.cs",
+              "DocumentMoniker": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\Stripe\\StripeFactory.cs",
+              "RelativeDocumentMoniker": "abstract-factory\\Logic\\Stripe\\StripeFactory.cs",
+              "ToolTip": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\Stripe\\StripeFactory.cs",
+              "RelativeToolTip": "abstract-factory\\Logic\\Stripe\\StripeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:04:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Program.cs",
+              "RelativeDocumentMoniker": "abstract-factory\\Program.cs",
+              "ToolTip": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Program.cs",
+              "RelativeToolTip": "abstract-factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:03:27.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\PaymentService.cs",
+              "RelativeDocumentMoniker": "abstract-factory\\Logic\\PaymentService.cs",
+              "ToolTip": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\PaymentService.cs",
+              "RelativeToolTip": "abstract-factory\\Logic\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:01:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StripeValidator.cs",
+              "DocumentMoniker": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\Stripe\\StripeValidator.cs",
+              "RelativeDocumentMoniker": "abstract-factory\\Logic\\Stripe\\StripeValidator.cs",
+              "ToolTip": "C:\\dev\\study\\carnacode\\balta-desafio-carnacode-2026_1-abstract-factory\\desafio\\abstract-factory\\abstract-factory\\Logic\\Stripe\\StripeValidator.cs",
+              "RelativeToolTip": "abstract-factory\\Logic\\Stripe\\StripeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T04:00:44.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
