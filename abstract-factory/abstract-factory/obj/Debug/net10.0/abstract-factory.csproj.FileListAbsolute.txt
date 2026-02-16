@@ -1,0 +1,15 @@
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.AssemblyInfoInputs.cache
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.AssemblyInfo.cs
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.csproj.CoreCompileInputs.cache
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.sourcelink.json
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\bin\Debug\net10.0\abstract-factory.exe
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\bin\Debug\net10.0\abstract-factory.deps.json
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\bin\Debug\net10.0\abstract-factory.runtimeconfig.json
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\bin\Debug\net10.0\abstract-factory.dll
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\bin\Debug\net10.0\abstract-factory.pdb
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.dll
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\refint\abstract-factory.dll
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.pdb
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\abstract-factory.genruntimeconfig.cache
+C:\dev\study\carnacode\balta-desafio-carnacode-2026_1-abstract-factory\desafio\abstract-factory\abstract-factory\obj\Debug\net10.0\ref\abstract-factory.dll
